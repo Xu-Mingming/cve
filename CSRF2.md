@@ -8,7 +8,7 @@ https://www.sourcecodester.com/users/tips23
 https://www.sourcecodester.com/php/16308/medicine-tracker-system-php-oop-and-mysql-db-source-code-free-download.html
 
 ## Vulnerability File:
-http://localhost/E-Insurance/
+/php-mts/classes/Users.php?f=save_user
 
 ## Description:
 Medicine Tracker System has a CSRF vulnerability when changing the password. An attacker can trick the administrator into changing the administrator login password, causing system information to be leaked.
