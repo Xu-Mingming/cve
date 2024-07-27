@@ -8,7 +8,7 @@ https://www.sourcecodester.com/users/munyweki
 https://www.sourcecodester.com/php/16995/insurance-management-system-php-mysql.html
 
 ## Vulnerability File:
-/E-Insurance/Script/admin/core/update_pol
+/E-Insurance/Script/admin/core/update_policy
 
 ## Description:
 There is a stored XSS vulnerability in the insurance management system. There is XSS in the pname parameter of the system. An attacker can obtain sensitive information of the system through this vulnerability.
